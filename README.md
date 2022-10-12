@@ -11,10 +11,10 @@ See contents below.
 
 ### Close up images of bugs 
 
-[Camponotus Darwinii](images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
-[Rhytidoponera metallica](images/casent0172345%20Rhytidoponera%20metallica.jpg)
-[Acanthomyrmex ferox](images/casent0901788_p_1_high%20Acanthomyrmex%20ferox.jpg)
-[Cataglyphis fortis](images/casent0906296_p_1_high.%20--%20Cataglyphis%20fortis.jpg)
+![Camponotus Darwinii](images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
+![Rhytidoponera metallica](images/casent0172345%20Rhytidoponera%20metallica.jpg)
+![Acanthomyrmex ferox](images/casent0901788_p_1_high%20Acanthomyrmex%20ferox.jpg)
+![Cataglyphis fortis](images/casent0906296_p_1_high.%20--%20Cataglyphis%20fortis.jpg)
 
 
 Associated data can be found [here](data/Survey%20Data.xlsx). 
